@@ -31,7 +31,7 @@ use app\components\MenuWidget;
                     <div class="row">
                         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                             <div class="logo-area">
-                                <a href="#"><img class="img-responsive" src="/web/public/img/logo.png" alt="logo"></a>
+                                <a href="<?=\yii\helpers\Url::to(["/"])?>"><img class="img-responsive" src="/web/public/img/logo.png" alt="logo"></a>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
