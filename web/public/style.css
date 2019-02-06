@@ -659,8 +659,8 @@ ul {
   transition: all 0.3s ease-out;
 }
 .btn-services-shop-now {
-  border: 1px solid #111111;
-  background: #111111;
+  border: 1px solid #cb2442;
+  background: #cb2442;
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
@@ -686,7 +686,7 @@ ul {
   }
 }
 .btn-services-shop-now:hover {
-  color: #111111;
+  color: #cb2442;
   background: transparent;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
