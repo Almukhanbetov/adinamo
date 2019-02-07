@@ -114,7 +114,7 @@ body {
   font-weight: 400;
   vertical-align: baseline;
   background: #ffffff;
-  color: #333333;
+  color: #ffffff;
 }
 h1,
 h2,
@@ -9390,7 +9390,7 @@ ul {
 ========================================*/
 .footer-area {
   padding: 93px 0 0;
-  background: #eaeaea;
+  background: #337ab7;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-area {
@@ -9434,7 +9434,7 @@ ul {
   }
 }
 .footer-area .footer-area-top .footer-box h3 {
-  color: #111111;
+  color: #ffffff;
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 27px;
@@ -9458,7 +9458,7 @@ ul {
   line-height: 1;
 }
 .footer-area .footer-area-top .footer-box .info-list li a {
-  color: #333333;
+  color: #ffffff;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -ms-transition: all 0.5s ease-out;
@@ -9493,7 +9493,7 @@ ul {
   transition: all 0.5s ease-out;
 }
 .footer-area .footer-area-top .footer-box .tag-list li a {
-  color: #333333;
+  color: #ffffff;
   display: block;
   padding: 5px 17px;
   -webkit-transition: all 0.5s ease-out;
@@ -9554,7 +9554,7 @@ ul {
   transition: all 0.5s ease-in;
 }
 .footer-area .footer-area-top .footer-box .footer-social li a:hover i {
-  color: #cb2442;
+  color: #ffffff;
   -webkit-transition: all 0.5s ease-in;
   -moz-transition: all 0.5s ease-in;
   -ms-transition: all 0.5s ease-in;
