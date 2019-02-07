@@ -11,7 +11,7 @@ use app\components\MenuWidget;
                         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                             <div class="header-contact">
                                 <ul>
-                                    <li><i class="fa fa-phone" aria-hidden="true"></i><a href="8707801011"> 87077801011</a></li>
+                                    <li><i class="fa fa-phone" aria-hidden="true"></i><a href="+7(727)2724240"> +7(727)2724240</a></li>
                                     <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">almuko@mail.ru</a></li>
                                 </ul>
                             </div>
