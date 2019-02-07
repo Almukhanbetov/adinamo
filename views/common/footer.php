@@ -45,8 +45,8 @@
                         <div class="footer-box">
                             <h3>Контакты</h3>
                                <p>Алматы: +7 (727) 272 42 40</p>
-			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+7 (727) 272 78 88</p>
-			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 (777) 583 77 99</p>
+			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+7 (727) 272 78 88</p>
+			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 (777) 583 77 99</p>
                                <p>Адрес: Кунаева, 83 Медеуский район, Алматы</p>
 			       <p>Почта: info@dinamo.kz &nbsp;&nbsp;&nbsp; sales@dinamo.kz</p>
 
