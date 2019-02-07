@@ -12,7 +12,7 @@ use app\components\MenuWidget;
                             <div class="header-contact">
                                 <ul>
                                     <li><i class="fa fa-phone" aria-hidden="true"></i><a href="+7(727)2724240"> +7(727)2724240</a></li>
-                                    <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="info@dinamo.kz">info@dinamo.kz</a></li>
+                                    <li><i class="fa fa-envelope" aria-hidden="true"></i>info@dinamo.kz</li>
                                 </ul>
                             </div>
                         </div>
