@@ -44,7 +44,7 @@
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
                             <h3>Контакты</h3>
-                               <p>sfgsrg</p>
+                               <p>sfgsrgefef</p>
                                <p>sfgsrg</p>
 
 
