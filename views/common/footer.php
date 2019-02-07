@@ -5,51 +5,49 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3>Information</h3>
+                            <h3>Основное</h3>
                             <ul class="info-list">
-                                <li><a href="about.html">About us</a></li>
-                                <li><a href="#">Customer Service</a></li>
-                                <li><a href="#">Manufacturers</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Terms & condition</a></li>
-                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="#">Главная</a></li>
+                                <li><a href="#">О нас</a></li>
+                                <li><a href="#">Товары</a></li>
+                                <li><a href="#">Контакты</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3>My Account</h3>
+                            <h3>Категории</h3>
                             <ul class="info-list">
-                                <li><a href="login-registration.html">My Account</a></li>
-                                <li><a href="login-registration.html">Login</a></li>
-                                <li><a href="wishlist.html">Order History</a></li>
-                                <li><a href="wishlist.html">Wish List</a></li>
-                                <li><a href="cart.html">View Cart</a></li>
-                                <li><a href="blog.html">Latest Post</a></li>
+                                <li><a href="#">Акваспорт</a></li>
+                                <li><a href="#">Бокс и единоборства</a></li>
+                                <li><a href="#">Велосипеды и Аксессуары</a></li>
+                                <li><a href="#">Зимние виды спорта</a></li>
+                                <li><a href="#">Командные виды спорта</a></li>
+                                <li><a href="#">Кубки и медали</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3>Product Tag</h3>
+                            <h3>Теги продуктов</h3>
                             <ul class="tag-list">
-                                <li><a href="#">Winter</a></li>
-                                <li><a href="#">Fashion</a></li>
-                                <li><a href="#">Bag</a></li>
-                                <li><a href="#">Denime</a></li>
-                                <li><a href="#">Summer Style</a></li>
-                                <li><a href="#">Leather</a></li>
-                                <li><a href="#">Dress</a></li>
-                                <li><a href="#">Dress</a></li>
-                                <li><a href="#">Summer Style</a></li>
-                                <li><a href="#">Leather</a></li>
+                                <li><a href="#">Акваспорт</a></li>
+                                <li><a href="#">Бокс и единоборства</a></li>
+                                <li><a href="#">Велосипеды и Аксессуары</a></li>
+                                <li><a href="#">Зимние виды спорта</a></li>
+                                <li><a href="#">Командные виды спорта</a></li>
+                                <li><a href="#">Кубки и медали</a></li>
+
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3>Stay With Us</h3>
-                            <p>Tmply dummy text of the printing and typesetting industry nummy ever.</p>
+                            <h3>Контакты</h3>
+                               <p>sfgsrg</p>
+                               <p>sfgsrg</p>
+
+
                             <ul class="footer-social">
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
@@ -76,7 +74,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                        <p>© 2016 Metro All Rights Reserved. Designed by<a href="http://radiustheme.com" target="_blank"> RadiusTheme</a></p>
+                        <p>©compnet.kz<a href="http://compnet.kz" target="_blank">ТОО "Complex Services"</a></p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <ul class="payment-method">

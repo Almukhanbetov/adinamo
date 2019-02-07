@@ -66,7 +66,7 @@ class SiteController extends AppController
         $this->setMeta('Динамо');
         $query = Product::find();
         $count = $query->count();
-        $pages = new Pagination(['totalCount'=>$count, 'pageSize'=>66]);
+        $pages = new Pagination(['totalCount'=>$count, 'pageSize'=>21]);
         $products = $query->offset($pages->offset)->limit($pages->limit)->all();
         return $this->render('index',
             ['products'=>$products,

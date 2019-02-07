@@ -405,9 +405,9 @@
             marginMax = document.getElementById('price-range-max');
         priceSlider.noUiSlider.on('update', function(values, handle) {
             if (handle) {
-                marginMax.innerHTML = "$" + values[handle];
+                marginMax.innerHTML = "₸" + values[handle];
             } else {
-                marginMin.innerHTML = "$" + values[handle];
+                marginMin.innerHTML = "₸" + values[handle];
             }
         });
     }

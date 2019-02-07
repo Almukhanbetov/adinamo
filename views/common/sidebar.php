@@ -16,18 +16,17 @@ use app\components\MenuWidget;
                 <div class="price-range" id="price-range-min"></div>
                 <div class="price-range" id="price-range-max"></div>
             </div>
-            <button class="btn-services-shop-now" type="submit" value="Login">Filter</button>
+            <button class="btn-services-shop-now" type="submit" value="Login">Поиск</button>
         </div>
-        <h2 class="title-sidebar">Product Tags</h2>
+        <h2 class="title-sidebar">Теги</h2>
         <div class="product-tags sidebar-section-margin">
             <ul>
-                <li><a href="#">Fashion</a></li>
-                <li><a href="#">Glamour</a></li>
-                <li><a href="#">Shoes</a></li>
-                <li><a href="#">Dress</a></li>
-                <li><a href="#">Kid’s</a></li>
-                <li><a href="#">Accessories</a></li>
-                <li><a href="#">Mobile</a></li>
+                <li><a href="#">Акваспорт</a></li>
+                <li><a href="#">Бокс и единоборства</a></li>
+                <li><a href="#">Велосипеды и Аксессуары</a></li>
+                <li><a href="#">Зимние виды спорта</a></li>
+                <li><a href="#">Командные виды спорта</a></li>
+                <li><a href="#">Кубки и медали</a></li>
             </ul>
         </div>
     </div>

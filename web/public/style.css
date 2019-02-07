@@ -114,7 +114,7 @@ body {
   font-weight: 400;
   vertical-align: baseline;
   background: #ffffff;
-  color: #ffffff;
+  color: #111111;
 }
 h1,
 h2,
@@ -9447,6 +9447,7 @@ ul {
 }
 .footer-area .footer-area-top .footer-box p {
   margin-bottom: 15px;
+  color: #ffffff;
 }
 .footer-area .footer-area-top .footer-box .info-list {
   padding-top: 5px;
