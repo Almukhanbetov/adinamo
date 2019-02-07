@@ -2134,7 +2134,7 @@ ul {
   transition: all 0.3s ease-out;
 }
 .header-area-style3 .header-top .header-top-inner-bottom {
-  padding: 30px 0 18px;
+  padding: 30px 0 0px;
   position: relative;
 }
 .header-area-style3 .header-top .header-top-inner-bottom .search-area {
