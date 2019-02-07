@@ -49,7 +49,10 @@
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
                             <h3>Stay With Us</h3>
-                            <p>Tmply dummy text of the printing and typesetting industry nummy ever.</p>
+				<p>Алматы: +7 (727) 272 42 40</p>
+				<p>        +7 (727) 272 78 88</p>
+				<p>        +7 (777) 583 77 99</p>
+				<p>Адрес:</p>
                             <ul class="footer-social">
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
