@@ -9521,7 +9521,7 @@ ul {
   transition: all 0.5s ease-in;
 }
 .footer-area .footer-area-top .footer-box .footer-social {
-  margin-bottom: 24px;
+  margin: 20px 0px;
 }
 .footer-area .footer-area-top .footer-box .footer-social li {
   display: inline-block;
