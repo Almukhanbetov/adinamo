@@ -13,8 +13,8 @@ use app\components\MenuWidget;
         <div id="price-range-wrapper" class="price-range-wrapper">
             <div id="price-range-filter"></div>
             <div class="price-range-select">
-                <div class="price-range" id="price-range-min"></div>
-                <div class="price-range" id="price-range-max"></div>
+                <div class="price-range" id="price-range-min">₸0</div>
+                <div class="price-range" id="price-range-max">₸100000</div>
             </div>
             <button class="btn-services-shop-now" type="submit" value="Login">Поиск</button>
         </div>
