@@ -42,11 +42,11 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="footer-box">
+            gj            <div class="footer-box">
                             <h3>Контакты</h3>
-                               <p>Алматы +7 (727) 272 42 40</p>
-			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+7 (727) 272 78 88</p>
-			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 (777) 583 77 99</p>
+                               <p>Алматы: +7 (727) 272 42 40</p>
+			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+7 (727) 272 78 88</p>
+			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 (777) 583 77 99</p>
                                <p>Адрес:                   </p>
 
 
@@ -57,7 +57,7 @@
                                 <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                             </ul>
                             <div class="newsletter-area">
-                                <h3>NewsLetter Sign Up!</h3>
+                                <h3>Написать нам</h3>
                                 <div class="input-group stylish-input-group">
                                     <input type="text" class="form-control" placeholder="E-mail . . .">
                                     <span class="input-group-addon">
