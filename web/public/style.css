@@ -9437,7 +9437,7 @@ ul {
   color: #ffffff;
   letter-spacing: 1px;
   text-transform: uppercase;
-  margin-bottom: 27px;
+  margin: 1px 0px;
   font-size: 20px;
 }
 @media only screen and (max-width: 767px) {
@@ -9446,7 +9446,7 @@ ul {
   }
 }
 .footer-area .footer-area-top .footer-box p {
-  margin-bottom: 15px;
+  margin: 1px 0px;
   color: #ffffff;
 }
 .footer-area .footer-area-top .footer-box .info-list {
@@ -9521,7 +9521,7 @@ ul {
   transition: all 0.5s ease-in;
 }
 .footer-area .footer-area-top .footer-box .footer-social {
-  margin: 20px 0px;
+  margin: 10px 0px 0px;
 }
 .footer-area .footer-area-top .footer-box .footer-social li {
   display: inline-block;
