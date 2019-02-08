@@ -9389,7 +9389,7 @@ ul {
 30. Footer Area styles 
 ========================================*/
 .footer-area {
-  padding: 93px 0 0;
+  padding: 10px 0 0;
   background: #337ab7;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -9408,7 +9408,7 @@ ul {
   }
 }
 .footer-area .footer-area-top {
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-area .footer-area-top {
