@@ -10,7 +10,7 @@ use yii\helpers\Url;
                 <div class="inner-product-details-left">
                     <div class="tab-content">
                         <div id="metro-related1" class="tab-pane fade active in">
-                            <?=\yii\helpers\Html::img(['/web/uploads/images/products/'.$product->img])?>
+                            <?=\yii\helpers\Html::img(['/web/uploads/images/products/'.$product->img,'width'=>280])?>
                         </div>
                     </div>
                 </div>
