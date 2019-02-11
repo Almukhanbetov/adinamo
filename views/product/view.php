@@ -15,7 +15,7 @@ use yii\helpers\Url;
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 "style="text-align:center">
                 <div class="inner-product-details-right">
                     <h3><?=$product->name?></h3>
                     <ul>
@@ -33,7 +33,7 @@ use yii\helpers\Url;
                         <p><span>Category:</span> Demo Products</p>
                     </div>
                     <ul class="product-details-social">
-                        <li>Share:</li>
+                        <li>Поделиться:</li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-linkedin"></i></a></li>
