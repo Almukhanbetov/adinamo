@@ -29,20 +29,6 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3>Теги продуктов</h3>
-                            <ul class="tag-list">
-                                <li><a href="#">Акваспорт</a></li>
-                                <li><a href="#">Бокс и единоборства</a></li>
-                                <li><a href="#">Велосипеды и Аксессуары</a></li>
-                                <li><a href="#">Зимние виды спорта</a></li>
-                                <li><a href="#">Командные виды спорта</a></li>
-                                <li><a href="#">Кубки и медали</a></li>
-
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="footer-box">
                             <h3>Контакты</h3>
                                <p>Алматы: +7 (727) 272 42 40</p>
 			       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+7 (727) 272 78 88</p>
@@ -50,7 +36,10 @@
                                <p>Адрес: Кунаева, 83 Медеуский район, Алматы</p>
 			       <p>Почта: info@dinamo.kz &nbsp;&nbsp;&nbsp; sales@dinamo.kz</p>
 
-
+				</div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        
                             
                             <div class="newsletter-area">
                                 <h3>Написать нам</h3>
@@ -61,7 +50,7 @@
 							                            <i class="fa fa-paper-plane" aria-hidden="true"></i>
 							                        </button>
 							                    </span>
-                                </div>
+                                
                             </div>
 				<ul class="footer-social">
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
