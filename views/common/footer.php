@@ -37,8 +37,10 @@
                                <p>Адрес: Кунаева, 83 Медеуский район, Алматы</p>
 			       <p>Почта: info@dinamo.kz &nbsp;&nbsp;&nbsp; sales@dinamo.kz</p>
 
-
-                            
+				</div>
+                            </div>
+                      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="footer-box">
                             <div class="newsletter-area">
                                 <h3>Написать нам</h3>
                                 <div class="input-group stylish-input-group">
