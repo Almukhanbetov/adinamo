@@ -82,7 +82,7 @@ use app\components\MenuWidget;
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="logo-area">
-                            <a href="index.html"><img class="img-responsive" src="/web/public/img/logo.png" alt="logo"></a>
+                            <a href="/site"><img class="img-responsive" src="/web/public/img/logo.png" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-8">
