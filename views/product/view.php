@@ -28,9 +28,9 @@ use yii\helpers\Url;
                     <p class="price"><?=$product->price?></p>
                     <p><?=$product->short_content?></p>
                     <div class="product-details-content">
-                        <p><span>SKU:</span> 0010</p>
-                        <p><span>Availability:</span> In stock</p>
-                        <p><span>Category:</span> Demo Products</p>
+                        <p><span>Номер товара:</span> 0010</p>
+                        <p><span>На складе:</span><?=$product->status?></p>
+                        <p><span>Категория:</span><?=$product->category_id?></p>
                     </div>
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
