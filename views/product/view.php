@@ -35,10 +35,7 @@ use yii\helpers\Url;
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus "></i></a></li>
-                        <li><a name="fb_share" type="icon"share_url="http://bit.ly/FBshareArticle">
-                            <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript">
-                            <i aria-hidden="true" class="fa fa-facebook"></script></i></a>
-                        </li>
+                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=[URL]"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-vk"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
