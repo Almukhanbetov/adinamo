@@ -34,10 +34,14 @@ use yii\helpers\Url;
                     </div>
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus "></i></a></li>
+                        <li><a name="fb_share" type="icon"share_url="http://bit.ly/FBshareArticle"></a> 
+                            <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript">
+                            </script><i aria-hidden="true" class="fa fa-facebook"></i></a>
+                        </li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#"><i aria-hidden="true" class="fa fa-vk"></i></a></li>
+                        <li><a href="#"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
                     </ul>
                     <ul class="inner-product-details-cart">
                         <li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart">В корзину</a></li>
