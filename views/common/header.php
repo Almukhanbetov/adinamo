@@ -67,7 +67,7 @@ use app\components\MenuWidget;
                             <ul class="header-cart-area">
                                 <li>
                                     <div class="cart-area">
-                                        <a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span>₸</span></a>
+                                        <a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span>0</span></a>
                                     </div>
                                 </li>
 
