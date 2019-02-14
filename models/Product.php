@@ -18,7 +18,7 @@ use Imagine\Image\Box;
  * @property string $content
  * @property string $short_content
  * @property integer $price
- * @property string $anons
+ * @property string $code
  * @property string $img
  * @property string $hit
  * @property string $new
