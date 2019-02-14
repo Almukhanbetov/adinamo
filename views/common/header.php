@@ -19,7 +19,7 @@ use app\components\MenuWidget;
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <div class="account-wishlist">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-user" aria-hidden="true"></i>Войти</a></li>
+                                    <li><a href="#"><i class="fa fa-user" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                         </div>
