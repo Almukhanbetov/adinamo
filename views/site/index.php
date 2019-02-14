@@ -45,7 +45,7 @@ use yii\helpers\Url;
                         </div>
                         <div class="product-content-holder">
                             <h3><a href="<?=Url::to(['/product/view','id'=>$product->id])?>"><?=$product->name?></a></h3>
-                            <span><?=$product->price?></span>
+                            <span><?=$product->price?>₸</span>
                         </div>
                     </div>
                 </div>
