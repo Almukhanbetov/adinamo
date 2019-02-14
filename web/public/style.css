@@ -1082,7 +1082,7 @@ ul {
 .main-menu-area nav ul > li {
   display: inline-block;
   position: relative;
-  padding: 20px 0 18px 0;
+  padding: 20px 0 10px 0;
 }
 .main-menu-area nav ul > li > a {
   border-right: 1px solid #b6b6b6;
