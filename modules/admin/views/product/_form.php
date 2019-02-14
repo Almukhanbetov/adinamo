@@ -22,7 +22,7 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'price')->textInput() ?>
 
-    <?= $form->field($model, 'anons')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'code')->textarea(['rows' => 6]) ?>
 
     <?= $form->field($model, 'image')->fileInput() ?>
 
