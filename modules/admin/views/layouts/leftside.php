@@ -64,7 +64,7 @@ use yii\helpers\Url;
                             'active' => $this->context->route == 'user/index',
                         ],
                         ['label' => 'Категории', 'icon' => 'fa fa-file-code-o', 'url' => ['/admin/category'],],
-                        ['label' => 'Ghjlerns', 'icon' => 'fa fa-file-code-o', 'url' => ['/admin/product'],],
+                        ['label' => 'Продукты', 'icon' => 'fa fa-file-code-o', 'url' => ['/admin/product'],],
 
                     ],
                 ]
