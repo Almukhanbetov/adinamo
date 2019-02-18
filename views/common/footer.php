@@ -44,7 +44,7 @@
                             <div class="newsletter-area">
                                 <h3>Написать нам</h3>
                                 <div class="input-group stylish-input-group">
-                                    <input type="text" class="form-control" placeholder="E-mail . . .">
+                                    <input type="text" class="form-departures" placeholder="E-mail . . .">
                                     <span class="input-group-addon">
 							                        <button type="submit">
 							                            <i class="fa fa-paper-plane" aria-hidden="true"></i>
