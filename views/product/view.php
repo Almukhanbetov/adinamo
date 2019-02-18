@@ -28,9 +28,9 @@ use yii\helpers\Url;
                     <p class="price"><?=$product->price?>₸</p>
                     <p><?=$product->short_content?></p>
                     <div class="product-details-content">
-                        <p><span>Номер товара:</span><?=$product->code?></p>
-                        <p><span>На складе:</span><?=$product->status?></p>
-                        <p><span>Категория:</span><?=$product->category_id?></p>
+                        <p><span>Номер товара:&nbsp;&nbsp;&nbsp;</span><?=$product->code?></p>
+                        <p><span>На складе:&nbsp;&nbsp;&nbsp;</span><?=$product->status?></p>
+                        <p><span>Категория:&nbsp;&nbsp;&nbsp;</span><?=$product->category_id?></p>
                     </div>
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
