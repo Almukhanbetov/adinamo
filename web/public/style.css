@@ -9737,3 +9737,15 @@ ul {
 .modal-dialog .product-details1-area .inner-product-details-left ul li {
   margin: 16px 0 0 0;
 }
+.form-departures {
+  border: none;
+  box-shadow: 0 0 0;
+  border-radius: 0;
+  background: #ffffff;
+  text-transform: uppercase;
+  color: #111111;
+  height: 34px;
+  border-top: 1px solid #f1f1f1;
+  border-left: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+}
