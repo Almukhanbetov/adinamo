@@ -26,6 +26,7 @@ use yii\helpers\Url;
                         <li><i aria-hidden="true" class="fa fa-star"></i></li>
                     </ul>
                     <p class="price"><?=$product->price?>₸</p>
+                    <p><?=$product->content?></p>
                     <p><?=$product->short_content?></p>
                     <div class="product-details-content">
                         <p><span>Номер товара:&nbsp;&nbsp;&nbsp;</span><?=$product->code?></p>
