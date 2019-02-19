@@ -29,7 +29,7 @@ use yii\helpers\Url;
                     <p><?=$product->short_content?></p>
                     <div class="product-details-content">
                         <p><span>Номер товара:&nbsp;&nbsp;&nbsp;</span><?php
-                            $x=$product->code?
+                            $x=$product->code?;
                             if ($x > 0) {
                                 echo 'В наличии';
                             } else {
