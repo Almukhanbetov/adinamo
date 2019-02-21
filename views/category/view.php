@@ -43,7 +43,7 @@ use yii\helpers\Url;
                             </div>
                             <div class="product-content-holder">
                                 <h3><a href="<?=\yii\helpers\Url::to(['/product/view','id'=>$product->id])?>"><?=$product->name?></a></h3>
-                                <span><?=$product->price?></span>
+                                <span><?=$product->price?>₸</span>
                             </div>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ use yii\helpers\Url;
                                 <div class="product-box2-content">
                                     <h3><a href="<?=\yii\helpers\Url::to(['/product/view','id'=>$product->id])?>"><?=$product->name?></a></h3>
                                     <span><?=$product->price?></span>
-                                    <p><?=$product->short_content?>₸</p>
+                                    <p><?=$product->short_content?></p>
                                 </div>
                                 <ul class="product-box2-cart">
                                     <li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart">Корзина</a></li>
