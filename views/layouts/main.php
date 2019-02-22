@@ -96,7 +96,7 @@ AppAsset::register($this);
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i></a></li>
+                           
                         </ul>
                             </div>
                         </div>
