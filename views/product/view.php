@@ -36,7 +36,7 @@ use yii\helpers\Url;
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus "></i></a></li>
-                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=<?=\yii\helpers\Url::to(['/product/view','id'=>$product->id])?>"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=[<?=\yii\helpers\Url::to(['/product/view','id'=>$product->id])?>]"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-vk"></i></a></li>
                         <li><a href="#"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
