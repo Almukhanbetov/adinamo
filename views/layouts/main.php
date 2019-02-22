@@ -49,7 +49,8 @@ AppAsset::register($this);
                             <div class="inner-product-details-left">
                                 <div class="tab-content">
                                     <div id="metro-related1" class="tab-pane fade active in">
-                                        <a href="#"><img class="img-responsive" src="/web/public/img/product/product-details1.jpg" alt="single"></a>
+                                        <?=\yii\helpers\Html::img(['/web/uploads/images/products/'.$product->img,'width'=>280])?>
+                                            "></a>
                                     </div>
                                     <div id="metro-related2" class="tab-pane fade">
                                         <a href="#"><img class="img-responsive" src="/web/public/img/product/product-details1.jpg" alt="single"></a>
