@@ -87,7 +87,7 @@ AppAsset::register($this);
                         </ul>
                                           <ul class="inner-product-details-cart">
                             <li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart">В корзину</a></li>
-                            <li>
+                            
                                 <div class="input-group quantity-holder" id="quantity-holder">
                                     <input type="text" placeholder="1" value="1" class="form-control quantity-input" name="quantity">
                                     <div class="input-group-btn-vertical">
