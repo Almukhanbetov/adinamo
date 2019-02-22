@@ -43,7 +43,10 @@
                         <div class="footer-box">
                             <div class="newsletter-area">
                                 <h3>Написать нам</h3>
-                                <div class="input-group stylish-input-group">
+                                <div class="input-group stylish-input-group" style="
+				    width: 252px;
+				    height: 36px;
+				">
                                     <input type="text" class="form-departures" placeholder="E-mail . . .">
                                     <span class="input-group-addon">
 							                        <button type="submit">
