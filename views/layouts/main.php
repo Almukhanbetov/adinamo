@@ -86,7 +86,7 @@ AppAsset::register($this);
                             <li><a href="http://www.odnoklassniki.ru/share.php?url=http://192.168.2.69/<?=$product->id?>"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
                         </ul>
                         <ul class="inner-product-details-cart">
-                            <!--<li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart">В корзину</a></li>-->
+                          
                             
                                 <div class="input-group quantity-holder" id="quantity-holder">
                                     <input type="text" placeholder="1" value="1" class="form-control quantity-input" name="quantity">
