@@ -35,11 +35,10 @@ use yii\helpers\Url;
                     </div>
                     <ul class="product-details-social">
                         <li>Поделиться:</li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus "></i></a></li>
                         <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.2.69/<?=$product->id?>"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-vk"></i></a></li>
-                        <li><a href="#"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
+                        <li><a href="http://vk.com/share.php?url=http://192.168.2.69/<?=$product->id?>"><i aria-hidden="true" class="fa fa-vk"></i></a></li>
+                        <li><a href="http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1&st._surl=http://192.168.2.69/<?=$product->id?>"><i aria-hidden="true" class="fa fa-odnoklassniki"></i></a></li>
+                        <a rel="nofollow" target="_blank" title="Facebook" class="b-share__handle b-share__link b-share-btn__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.2.69/<?=$product->id?>" data-service="facebook"><span class="b-share-icon b-share-icon_facebook"></span></a>
                     </ul>
                     <ul class="inner-product-details-cart">
                         <li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart">В корзину</a></li>
