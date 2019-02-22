@@ -81,12 +81,12 @@ class Product extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
-            'id' => 'ID',
+            'id' => 'Номер',
             'category_id' => 'Категории',
             'name' => 'Название',
             'content' => 'Описание',
             'short_content' => 'Характеристики',
-            'price' => 'PЦена',
+            'price' => 'Цена',
             'code' => 'Артикул',
             'img' => 'Изображения',
             'hit' => 'Хит',
@@ -95,7 +95,7 @@ class Product extends \yii\db\ActiveRecord
             'created_at' => 'Created At',
             'updated_at' => 'Updated At',
             'keywords' => 'Теги',
-            'description' => 'Description',
+            'description' => 'Описание тега',
         ];
     }
 
