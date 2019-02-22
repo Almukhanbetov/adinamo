@@ -5,9 +5,9 @@ use yii\helpers\Html;
         <!-- Logo -->
         <a href="index2.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b><?=$title?></b></span>
+		<span class="logo-mini"><b>Меню</b></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b><?=$title?></b> Administrator</span>
+         	 <span class="logo-lg"><b>Меню</b> Administrator</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
@@ -208,15 +208,15 @@ use yii\helpers\Html;
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
 					<?= Html::img('@web/img/user2-160x160.jpg', ['class' => 'user-image', 'alt'=>'User Image']) ?>
-                  <span class="hidden-xs">Alexander Pierce</span>
+                  <span class="hidden-xs">Almukhanbetov Mukhtar</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
                     <?= Html::img('@web/img/user2-160x160.jpg', ['class' => 'img-circle', 'alt'=>'User Image']) ?>
                     <p>
-                      Alexander Pierce - Web Developer
-                      <small>Member since Nov. 2012</small>
+                      Almukhanbetov Mukhtar - Back-end Developer 
+                      <small>Member since January. 2019</small>
                     </p>
                   </li>
                   <!-- Menu Body -->
