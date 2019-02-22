@@ -3,7 +3,7 @@ use yii\helpers\Html;
 ?>
 <header class="main-header">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-         	 <span class="logo-mini"><b>Меню</b></span>
+         	 <span class="logo-mini"><b><?=title?></b></span>
           <!-- logo for regular state and mobile devices -->
          	 <span class="logo-lg"><b>Меню</b> Administrator</span>
         <!-- Header Navbar: style can be found in header.less -->
