@@ -36,7 +36,7 @@ use yii\helpers\Url;
                             <ul class="product-social">
                                 <li><a href="<?=Url::to(['cart/add','id'=>$product->id])?>" data-id="<?=$product->id?>" class="add-to-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i></a></li>
-                                <li><a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
+                                <li><a href="<?=\yii\helpers\Url::to(['/product/view','id'=>$product->id])?>" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
                             </ul>
                             <div class="product-img-holder">
                                 <?=\yii\helpers\Html::img(['web/uploads/images/products/'.$product->img])?>
