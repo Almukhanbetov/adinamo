@@ -3,9 +3,9 @@ use yii\helpers\Html;
 ?>
 <header class="main-header">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b><?=$title?></b></span>
+         	 <span class="logo-mini"><b>Меню</b></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>Меню</b> Administrator</span>
+         	 <span class="logo-lg"><b>Меню</b> Administrator</span>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
           <!-- Sidebar toggle button-->
@@ -212,8 +212,8 @@ use yii\helpers\Html;
                   <li class="user-header">
                     <?= Html::img('@web/img/user2-160x160.jpg', ['class' => 'img-circle', 'alt'=>'User Image']) ?>
                     <p>
-                      Almukhanbetov Mukhtar - Back-end Developer
-                      <small>Member since Nov. 2019</small>
+                      Almukhanbetov Mukhtar - Back-end Developer 
+                      <small>Member since January. 2019</small>
                     </p>
                   </li>
                   <!-- Menu Body -->
